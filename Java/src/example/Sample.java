@@ -5,6 +5,7 @@ public class Sample {
 		System.out.println("Hello World!");
 		System.out.println("hii this is vijay");
 		System.out.println("hii i am vijay");
+		Sample sample = new Sample();
 
 	}
 
